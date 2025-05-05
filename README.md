@@ -39,7 +39,7 @@ This is a self-initiated data visualization project that simulates the performan
 
 ## 🔗 Live Dashboard
 
-➡️ [Click here to view the interactive dashboard on Looker Studio](https://lookerstudio.google.com/s/qSCSubdomb)
+➡️ [Click here to view the interactive dashboard on Looker Studio](https://lookerstudio.google.com/s/so9N3oHdotc)
 
 ---
 
