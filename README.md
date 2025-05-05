@@ -23,7 +23,7 @@ This is a self-initiated data visualization project that simulates the performan
 
 ## 📊 Dashboard Preview
 
-[![Dashboard Screenshot](assets/ss-dashboard.jpg)](https://lookerstudio.google.com/s/p0Pe13BrckA)
+![Dashboard Screenshot](https://github.com/fadlillahs/Laundry-Coin-Analysis/blob/a2be4454c7517960ce5bee6e84abcfd6ea80969a/SS%20PowerBI%20Dashboard.jpg)
 
 ---
 
